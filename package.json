@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mrphilroth/website",
   "devDependencies": {
+    "browser-sync": "^1.9.1",
     "gulp": "^3.8.10",
     "gulp-gh-pages": "^0.4.0"
   }
